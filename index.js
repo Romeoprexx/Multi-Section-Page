@@ -1,6 +1,6 @@
 
 function countDownClock() {
-    const  endDate = Date.parse(" dec 25, 2021 00:00:00");
+    const  endDate = Date.parse(" dec 25, 2023 00:00:00");
     const startDate = new Date();
     const timeFrame = endDate - startDate;
  
